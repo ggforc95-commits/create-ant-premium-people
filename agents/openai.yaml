@@ -1,0 +1,4 @@
+interface:
+  display_name: "蚂蚁保真人角色"
+  short_description: "Create consistent Chinese family and lifestyle photographs"
+  default_prompt: "使用 $create-ant-premium-people 创作一张自然光下的蓝白配色家庭人像。"
